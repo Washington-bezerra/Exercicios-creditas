@@ -1,1 +1,1 @@
-# Exercicios-c
+# Exercicios-creditas
